@@ -4,3 +4,7 @@ In this project I have analyzed India's situation during 1st and 2nd wave of cov
 2. Spread rate of covid-19 in India?
 3. Death-rate?
 4. Effect of lockdown in India? In terms of Death-rate, Recovery-rate, New-cases.
+
+Programming language used - Python
+IDE - Pycharm
+Packages - Pandas, matplotlib, and seaborn
